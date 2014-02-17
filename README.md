@@ -6,3 +6,5 @@ damnit wir immer den aktuellen Stand des Projekt haben, werden wir Git und githu
 Was ist git und wie stelle ich alles ein? Geht bitte auf diesen Link und lest euch alles durch, ihr müsst euer Terminal/Konsole oder wie auch immer das auf Deutsch heißt öffnen und ein paar Befehle eingeben. Wenn ihr es auf eurem eigenen PC programmieren wollt, müsst ihr git installieren. Mehr hier: http://ruby.railstutorial.org/ruby-on-rails-tutorial-book#sec-version_control
 
 Bei Fragen immer gerne an mich oder Arwed wenden (Auf WhatsApp oder wie auch immer)
+
+An Arwed - Kannst ihnen ja auch .gitignore erklären und ich würde dann dies hier empfehlen: https://github.com/github/gitignore/blob/master/Global/Eclipse.gitignore
